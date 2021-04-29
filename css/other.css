@@ -1,3 +1,9 @@
 .masthead {
     background-image: url(../assets/img/cosmos.jpg);
   }
+
+.d-block w-100{
+    width: 100px;
+    height: 100px;
+    padding: 10px;
+}
